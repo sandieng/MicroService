@@ -1,0 +1,17 @@
+**/.idea
+**/bin
+**/obj
+**/debug
+*.ldf
+**/.vs
+*.mdf
+*.user
+**/packages
+**/tools/*
+**/report
+**.log
+**/*.dll.lastcodeanalysissucceeded
+**/TestResult.xml
+**/build-scripts/nuget
+**/tmp/**
+*.nupkg
